@@ -15,7 +15,7 @@
 	
 	<!-- General preferences -->
 
-	<preference name="phonegap-version" value="2.6.7" />
+	<preference name="phonegap-version" value="cli-6.5.0" />
 	<preference name="permissions" value="none"/>
 
 	<preference name="DisallowOverscroll" value="true" />
